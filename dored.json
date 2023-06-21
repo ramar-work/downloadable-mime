@@ -1,0 +1,80 @@
+{
+  "team": "DORED",
+  "team_leader": "Eric Muth",
+  "analysis_external": "The Division of Research and Economic Development (or DORED) manages North Carolina A&T’s research enterprise, which is among the top three in the 17-campus University of North Carolina System.\n\nOur work extends beyond our traditional disciplines of engineering and agriculture into such areas as biomedical research, leadership development, social and behavioral sciences, health disparities, evolutionary biology and computational science, to name a few.",
+  "analysis_internal": "Organization of resources (Human and monetary) campus wide to achieve R1 status.",
+  "team_members": [
+    "Eric Muth",
+    "Melissa Hodge-Penn",
+    "Shawn Johnson"
+  ],
+  "goals": [
+    [
+      {
+        "strategy": "1.4: Diversify the university’s revenue and resource base to build financial strength and provide flexible funds for strategic investment.",
+        "action": "Merck will outfit the facility with the equipment and classroom spaces necessary to provide and enhance academic programming and training for biotechnology careers for North Carolina A&T students. A process laboratory will allow opportunities for students to put knowledge into practice in an advanced discovery setting.",
+        "metrics": [
+          "External funding, patents and licenses.",
+          "Active participation in community outreach and engagement."
+        ],
+        "measure": "The collaboration will add significantly to biotechnology research and education already underway in colleges and departments across A&T. In addition to biotechnology and bioengineering degree and certificate programs in the Joint School of Nanoscience and Nanoengineering, the colleges of Engineering, Science and Technology, and Agriculture and Environmental Sciences, the university is developing a Department of Defense-funded Center of Excellence in Biotechnology.",
+        "baseline": "75",
+        "target": "90"
+      }
+    ],
+    [
+      {
+        "strategy": "2.3: Recruit, retain and develop highly skilled, visionary faculty and staff to prepare students for impact through experiential learning, solution-focused research, creative endeavors and community engagement.",
+        "action": "Create strategic plan",
+        "metrics": [
+          "Cross-disciplinary research and outreach programs.",
+          "Other",
+          "Graduate degrees awarded."
+        ],
+        "measure": "We are not sure of the measure just yet. ",
+        "baseline": "25",
+        "target": "75"
+      }
+    ],
+    [
+      {
+        "strategy": "3.7: Compete with distinction and honor among elite institutions.",
+        "action": "ABCDE",
+        "metrics": [
+          "Investments in salaries and incentives for faculty and staff.",
+          "Investments in renovating, building new campus facilities with innovative learning spaces.",
+          "Academic and athletic achievements, rankings, awards and championships.",
+          "Campus participation in wellness activities."
+        ],
+        "measure": "This forward-thinking partnership housed on the Gateway Research campus emphasizes both N.C. A&T and Merck’s commitment to optimize and develop innovative ideas in collaborative facilities that will not only benefit health outcomes, but will strengthen our impact in the research ecosystem for this region and state going forward,” said North Carolina A&T Chancellor Harold L. Martin Sr.\n\nThe collaboration will add significantly to biotechnology research and education already underway in colleges and departments across A&T. In addition to biotechnology and bioengineering degree and certificate programs in the Joint School of Nanoscience and Nanoengineering, the colleges of Engineering, Science and Technology, and Agriculture and Environmental Sciences, the university is developing a Department of Defense-funded Center of Excellence in Biotechnology.\n\nThe collaboration aims to not only provide training, but also build a pipeline of talent for Merck and the biotechnology industry overall.\n\n“The Merck partnership fits well within our 2030 Strategic Plan, which demonstrates our commitment to transformative engagement,” said Tonya Smith-Jackson, Ph.D., A&T provost and executive vice chancellor of Academic Affairs. “We partnered with Merck because of their commitment to advance the human condition and strong values around diversity and inclusion. A&T is central to producing highly qualified students. Our nationally-recognized excellence in community engagement will also expand access to biotech teaching, training and research.”",
+        "baseline": "90",
+        "target": "100"
+      }
+    ],
+    [
+      {
+        "strategy": "Other",
+        "action": "none",
+        "metrics": [
+          "Other",
+          "Faculty, staff and student positive perception of campus climate."
+        ],
+        "measure": "none",
+        "baseline": "0",
+        "target": "0"
+      }
+    ],
+    [
+      {
+        "strategy": "5.6: Through execution of the new campus Master Plan, enhance and create facilities and capacities essential to support the university’s R1 – Very High Research Activity aspiration.",
+        "action": "Just keep swimming, swimming, swimming.",
+        "metrics": [
+          "Industry sponsored research projects."
+        ],
+        "measure": "Not drowning",
+        "baseline": "75",
+        "target": "100"
+      }
+    ]
+  ]
+}
